@@ -1,0 +1,4 @@
+BFS: Up-> Up-> Right
+UCS: Up-> Up-> Right
+IDS: Up-> Up-> Right
+DFS: Up-> Up-> Right
